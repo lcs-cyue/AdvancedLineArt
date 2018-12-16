@@ -15,5 +15,10 @@ void setup() {
   
   image(source, 330, 50);
   
+  line(100, 100, 100, 500);
+  stroke(204, 102, 0);
+  
+  
+  
   
 }
