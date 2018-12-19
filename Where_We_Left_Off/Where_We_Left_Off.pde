@@ -20,7 +20,7 @@ void setup() {
   // the array will start at position 0
   // and with 424,000 values
   // the final position will then be at 423,999
-  source.loadPixels();
+
 
   // loop from first pixel, at position 0, to final pixel, at position 423,999
   for (int position = 0; position <= 423999; position += 1) {
